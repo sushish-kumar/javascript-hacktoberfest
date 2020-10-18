@@ -1,42 +1,43 @@
 # javascript-hacktoberfest
-> Aimed to give a positive overview of open source development. Not comfortable with javascript?? [here](#contribute-in-other-languages)'s something for you that you would like. Special thanks to [Aman](https://github.com/amanloc1) for review
-## Regitering for Hacktoberfest. (Already registered?? Start [here](#creating-my-first-pull-request))
-1. Create Github account if not already created.
-2. Register on hacktoberfest if not already registered by clicking [here](https://hacktoberfest.digitalocean.com/)
-## Creating my first pull request.
-1. Signin into your github account.
-2. Fork [this](https://github.com/sushish-kumar/javascript-hacktoberfest) repository 
-3. Go to the repository in your own account (\<your-username\>/javascript-hacktoberfest)
-4. Go to hello_world folder and click "Create new file" button
-5. Give name of file as "<your-username>.js" and write a hello world programme in javascript
-6. After completing the programme click the `Commit new file` button(If you get two options saying `commit directly to master` & `create new branch`, select the first one).
-7. Now go to your repository home page(<your-username>/javascript-hacktoberfest)
-8. Click on the button `New pull request` 
-9. You will get a screen having a green button `Create pull request`.
-10. Click the button `Create pull request`
-11. Input valid readable and reasonable title and comment.
-12. finally click "Create pull request" to create a pull request. And
+> This repository is aimed at giving a positive overview on open source development. Are you not comfortable with Javascript, well there's nothing to fret! Click [here](#contribute-in-other-languages) to view some other languages that might have something that you will like. (Special thanks to [Aman](https://github.com/amanloc1) for the review)
+## Registering for Hacktoberfest ([Already registered?](#creating-my-first-pull-request))
+1. Create a [Github](https://github.com) account if you don't already have one.
+2. Register yourself at [Hactoberfest 2020](https://hacktoberfest.digitalocean.com/) using your Github account.
+3. Come back to this [Hacktoberfest](https://github.com/sushish-kumar/javascript-hacktoberfest) repo.
+## Creating your first pull request.
+1. Sign in into your Github account.
+2. Fork [this](https://github.com/sushish-kumar/javascript-hacktoberfest) repository.
+3. Go to the your copy of the forked reposity (\<your-username\>/javascript-hacktoberfest).
+4. Go to the hello_world folder and click the "Create new file" button.
+5. Change the name of the file to "<your-username>.js" and write a hello world script in Javascript.
+6. After writing the script, click the `Commit new file` button (If you get two options saying `commit directly to master` & `create new branch`, select the first one).
+7. Go to your repository's home page (<your-username>/javascript-hacktoberfest).
+8. Click `New pull request`.
+9. Click the green `Create pull request`.
+11. Input a reasonable and valid title with a fulfilling description.
+12. Finally, click the "Create pull request" button to submit your pull request.
 
 ## Meeting the target
-> You have to meet the target of minimum of 4 Pull Requests to complete the challenge successfully.  
+> To redeem a Hacktoberfest 2020 t-shirt, you must submit 4 successful pull requests.  
 
-As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in other repos listed [here](#contribute-in-other-languages) or in this repo itself. To create another pull request in this repo, go into folders other than hello_world and follow `steps 5 to 12` after going into any of the following folders.  
-> Another Pull Request can only be made after getting your previous Pull request merged. I will try my best to get your PRs merged typically within an hour.  
+Want to contribute to this repository in other languages? Go [here](#contribute-in-other-languages) to find a list! If you wan't to continue contributing to this repository in Javascript, create another pull request in this repository, go into the folders (exluding hello_world), and follow `steps 5 to 12`.
+
+> You can only submit another pull request after your previous request has been merged. Your pull request will be accepted as soon as possible (usually around an hour).
 
 |folder_name | details|  
 |--- | --- | 
-|hello_world | programme to print hello world.|  
-|addition | simple programme to add two numbers.|  
-|subtraction | simple programme to find difference of two numbers.|
-|multiplication | simple programme to multiply two numbers.  |
-|division | simple programme to divide one numer by another number.|  
+|hello_world | Print hello world|  
+|addition | Find the product between two numbers|  
+|subtraction |Find difference between two numbers|
+|multiplication | Find the product between two numbers|
+|division | Find the quotient between two numbers|  
   
-## What if I want to like to contribute in other languages 
+## Don't fully understand Javascript?
 ### Contribute in other languages  
 
 |Repo name| Description | Link |  
 |---------|-------------|------|  
-|java-hacktoberfest| Hacktoberfest aimed repo in java|[Here](https://github.com/sushish-kumar/java-hacktoberfest)|  
-|javascript-hacktoberfest| Hacktoberfest aimed repo in javascript|[Here](https://github.com/sushish-kumar/javascript-hacktoberfest)|  
-|python-hacktoberfest| Hacktoberfest aimed repo in python|[Here](https://github.com/sushish-kumar/python-hacktoberfest)|  
-|cpp-hacktoberfest| Hacktoberfest aimed repo in c++|[Here](https://github.com/sushish-kumar/cpp-hacktoberfest)|  
+|java-hacktoberfest| Hacktoberfest repository centered around Java|[Here](https://github.com/sushish-kumar/java-hacktoberfest)|  
+|javascript-hacktoberfest| Hacktoberfest repository centered around Javascript|[Here](https://github.com/sushish-kumar/javascript-hacktoberfest)|  
+|python-hacktoberfest| Hacktoberfest repository centered around Python|[Here](https://github.com/sushish-kumar/python-hacktoberfest)|  
+|cpp-hacktoberfest| Hacktoberfest repository centered around C++|[Here](https://github.com/sushish-kumar/cpp-hacktoberfest)|  
